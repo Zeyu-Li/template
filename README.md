@@ -11,10 +11,10 @@ It is TODO: description
 To use this program simply TODO: how it's used
 
 For MacOS or Linux:
-    py3 
+    i.e. py3 
 
 For Windows:
-    python3 
+    i.e. python3 
 
 ## Licence
 
